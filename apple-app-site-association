@@ -4,7 +4,7 @@
        "details": [
            {
                "appID": "UM246WFXVS.ru.ramblerco.livejournal",
-               "paths": [ "http://*.livejournal.com", "http://users.livejournal.com/*","http://*.livejournal.com/*.html"]
+               "paths": [ "http://juyka.github.io"]
            }
        ]
    }
